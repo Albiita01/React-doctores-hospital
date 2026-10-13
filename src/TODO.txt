@@ -1,0 +1,5 @@
+#EJERCICIO
+
+~ Necesito un botón en la tabla para visualizar los detalles de un Doctor. 
+~ Necesito un component que recibirá el ID del doctor y mostraremos sus detalles en el padre DoctoresComponent. 
+~ <DetallesDoctor iddoctor="444"/> 
